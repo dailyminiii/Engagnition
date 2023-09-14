@@ -33,11 +33,10 @@ Duration:
 Each data collection session with participants averaged around 4 minutes.
 
 ![Data  fig  Teaser](https://github.com/dailyminiii/Engagnition/assets/79134282/684613e8-3ea7-4e85-be81-48f0dd13a24d)
+![Data  fig  Setup Condition](https://github.com/dailyminiii/Engagnition/assets/79134282/419e7d81-91c7-41ae-a3a2-105b8b73f421)
 
 Conditions:
 Data collection encompassed three distinct conditions to provide a multifaceted perspective:
-
-![Data  fig  Setup Condition](https://github.com/dailyminiii/Engagnition/assets/79134282/419e7d81-91c7-41ae-a3a2-105b8b73f421)
 
 Baseline: Captures the foundational physiological and behavioral metrics without any specific external stimulus.
 Physical High Demand: Metrics when participants were subjected to tasks or environments demanding high physical engagement.
@@ -46,6 +45,13 @@ Consent:
 It's imperative to note that all participants (or their guardians) provided explicit consent for the data to be publicly disclosed and utilized for research purposes.
 
 
+Engagement Levels:
+Engagement during sessions was classified into three distinct tiers:
+
+0: Not engaged at all.
+1: Moderately engaged.
+2: Fully engaged.
+These engagement classifications were determined in collaboration with experts specializing in developmental disabilities, ensuring a comprehensive and informed categorization.
 
 
 ![Data  fig  EngagementExample](https://github.com/dailyminiii/Engagnition/assets/79134282/f89b4e11-28dd-4131-8323-c53b4fccc27c)
