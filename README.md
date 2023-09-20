@@ -1,6 +1,9 @@
+# About Engagnition
+
+Engagement plays a key role in improving the cognitive and motor development of children with autism spectrum disorder (ASD). Engaging technologies involving physical activity and interactive stimuli have benefited in improving their engagement and lessening stereotyped behaviors. Especially, content involving both tangible and intangible robot agents can foster engagement in children with developmental disorders. Combining AI systems with these robot agents enables the prediction of engagement and timely interventions, potentially aiding in maintaining high engagement levels. However, the scarcity of data hinders the development of engagement prediction models in practice (i.e., no publicly available dataset for engagement of children with ASD). In this study, we present the Engagnition dataset for engagement recognition of children with ASD (\textit{N} = 57) utilizing a self-developed serious game, “Defeat the Monster” based on enhancing recognition and classification abilities. The dataset consists of physiological and behavioral responses and expertise annotations, based on ternary scales of engagement (ground truth). For technical validations, we report the distribution of engagement, the status of interventions per participant, and the signal-to-noise ratio (SNR) of physiological signals.
+
 # Engagnition
 
-Engagnition Dataset for ASD Engagement Recognition
 Hello, and welcome to the Engagnition repository! 🎉
 
 Engagement is crucial for advancing the cognitive and motor development in children with Autism Spectrum Disorder (ASD). While technologies emphasizing physical interaction and dynamic stimuli have shown promise in boosting engagement and reducing stereotypical behaviors, some solutions, like robots, come with challenges like the need for robotics expertise and high costs. That's where serious games could step in!
