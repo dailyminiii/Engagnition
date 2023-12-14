@@ -1,4 +1,4 @@
-## 📊 About Engagnition
+![Data  fig  EngagementExample (1)](https://github.com/dailyminiii/Engagnition/assets/79134282/d55b9849-7b81-4f38-9b10-768808fceb0a)## 📊 About Engagnition
 
 ![Data  fig  Teaser](https://github.com/dailyminiii/Engagnition/assets/79134282/684613e8-3ea7-4e85-be81-48f0dd13a24d)
 
@@ -24,7 +24,8 @@ Our mission is to create an interactive environment where children with developm
 
 The data for the Engagnition dataset was collected at a physical fitness center specifically designed for children with developmental disabilities.
 
-![Data  fig  Setup Condition](https://github.com/dailyminiii/Engagnition/assets/79134282/419e7d81-91c7-41ae-a3a2-105b8b73f421)
+![Data  fig  Setup Condition (1)](https://github.com/dailyminiii/Engagnition/assets/79134282/09239254-4da0-4d7a-9360-68371c4dde9b)
+
 
 - E4 Wristband: A versatile biometric sensor capturing a wealth of physiological data. (Accelerometer, GSR, Skin Temperature)
 - Unity-Based Game: Participants interacted with a custom-developed game designed in Unity to assess their performance metrics during the sessions. (Performance annotation, Session elapsed times)
@@ -46,11 +47,12 @@ Data collection encompassed three distinct conditions to provide a multifaceted 
 
 Engagement during sessions was classified into three distinct tiers:
 
-![Data  fig  EngagementExample](https://github.com/dailyminiii/Engagnition/assets/79134282/f89b4e11-28dd-4131-8323-c53b4fccc27c)
+![Data  fig  EngagementExample (1)](https://github.com/dailyminiii/Engagnition/assets/79134282/81afebbb-4545-4d30-b83b-f6008adc4732)
 
 - 0: Not engaged at all.
 - 1: Moderately engaged.
 - 2: Fully engaged.
+
 
 These engagement classifications were determined in collaboration with experts specializing in developmental disabilities, ensuring a comprehensive and informed categorization.
 
