@@ -1,4 +1,4 @@
-![Data  fig  EngagementExample (1)](https://github.com/dailyminiii/Engagnition/assets/79134282/d55b9849-7b81-4f38-9b10-768808fceb0a)## 📊 About Engagnition
+## 📊 About Engagnition
 
 ![Data  fig  Teaser](https://github.com/dailyminiii/Engagnition/assets/79134282/684613e8-3ea7-4e85-be81-48f0dd13a24d)
 
