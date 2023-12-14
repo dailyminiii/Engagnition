@@ -14,9 +14,9 @@ Our mission is to create an interactive environment where children with developm
 
 ## 📊 Key Features
 
-- Specifically designed for engagement recognition of kids with Developmental Disabilities (Total participants: 57).
-- Incorporates both physiological and behavioral responses for comprehensive analysis.
-- Contains expert annotations anchored on a ternary scale, serving as the engagement ground truth.
+Specifically designed for engagement recognition of kids with Developmental Disabilities (Total participants: 57).
+Incorporates both physiological and behavioral responses for comprehensive analysis.
+Contains expert annotations anchored on a ternary scale, serving as the engagement ground truth.
 
 
 
